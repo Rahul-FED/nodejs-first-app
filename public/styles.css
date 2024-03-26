@@ -1,0 +1,26 @@
+/* styles.css */
+
+h2 {
+    text-align: center;
+    color: #333;
+}
+form {
+    max-width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    width: 100%;
+    cursor: pointer;
+}
